@@ -1,7 +1,7 @@
 
-const urlBaseAPI = 'http://localhost:3000';
+const urlBaseAPI = 'https://atividade08-7kxz.onrender.com';
 
-const urlBaseFront = 'http://localhost:3000';
+const urlBaseFront = 'https://atividade08-7kxz.onrender.com';
 
 
 
